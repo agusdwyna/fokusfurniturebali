@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fokusfurniturebali-git-main-agusdwynas-projects.vercel.app/sitemap.xml
+Sitemap: https://fokusfurniturebali.vercel.app/sitemap.xml
