@@ -37,7 +37,7 @@ export default function Footer() {
                 </span>
 
                 <p>
-                  +62 812-3456-7890
+                  +62 878-3116-5773
                 </p>
               </div>
 
@@ -54,7 +54,7 @@ export default function Footer() {
 
             {/* CTA */}
             <a
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6287831165773"
               className="mt-7 bg-[#040505] text-white px-5 py-2.5 rounded-xl text-xs font-semibold uppercase tracking-[0.12em] hover:opacity-90 transition-all shadow-lg"
             >
               Chat WhatsApp
